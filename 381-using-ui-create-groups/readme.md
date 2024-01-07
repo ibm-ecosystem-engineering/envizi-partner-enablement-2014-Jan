@@ -5,7 +5,6 @@ In this lab exercise we will create Groups in Envizi using UI.
 #### Pre-Requisite
 
 1. Get your `Prefix-Id` from your Instructor. This id to be prefixed in all your data to avoid duplicate records. Your `Prefix-Id` could be in the format `A11`, `A12`.
-2. Get the `Organization` name from Instructor.
 
 #### Objective
 

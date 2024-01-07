@@ -15,6 +15,46 @@ The Objective is to create the following Accounts
 
 <img src="images/00-org-hiearchy.png">
 
+
+
+<table>
+<tr>
+<th>Location</th>
+<th>Account Name</th>
+<th>Account Style</th>
+</tr>
+<tr>
+<td>G1-Tower-2000</td>
+<td>G1-Tower-2000-Elec-01</td>
+<td>Electricity - kWh  (Electricity - Total kWh and Cost)</td>
+</tr>
+<tr>
+<td>G1-Tower-2001</td>
+<td>G1-Tower-2001-Elec-01</td>
+<td>Electricity - kWh  (Electricity - Total kWh and Cost)</td>
+</tr>
+<tr>
+<td>G1-DC-2000</td>
+<td>G1-DC-2000-Elec-01</td>
+<td>Electricity - kWh  (Electricity - Total kWh and Cost)</td>
+</tr>
+<tr>
+<td>G1-DC-2001</td>
+<td>G1-DC-2001-Elec-01</td>
+<td>Electricity - kWh  (Electricity - Total kWh and Cost)</td>
+</tr>
+<tr>
+<td>G1-DC-2000</td>
+<td>G1-DC-2000-Diesel-01</td>
+<td>Transport Diesel - L  (Diesel Transport - miles)</td>
+</tr>
+<tr>
+<td>G1-DC-2001</td>
+<td>G1-DC-2001-Diesel-01</td>
+<td>Transport Diesel - L   (Diesel Transport - miles)</td>
+</tr>
+</table>
+
 ## 1. Create Account
 
 ### 1.1. Create Account 1

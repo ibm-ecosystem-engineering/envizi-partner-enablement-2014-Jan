@@ -6,7 +6,7 @@ In this lab exercise we will create Groups/Locations/Accounts and loading data i
 
 #### Pre-Requisite
 
-1. Get your `Prefix-Id` from your Instructor. This id to be prefixed in all your data to avoid duplicate records. Your `Prefix-Id` could be in the format `A11`, `A12`.
+1. Get your `Prefix-Id` from your Instructor. This id to be prefixed in all your data to avoid duplicate records. Your `Prefix-Id` could be in the format `A11`, `A12` ...
 
 
 | S.No  | Topic             | Link                                               |

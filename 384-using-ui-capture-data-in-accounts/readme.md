@@ -26,8 +26,8 @@ Account summary get displayed as below.
 <img src="images/06-load-account-data13.png">
 
 4. Fill in the details as below. 
-- Start Period : Enter the starting period of the data
-- End Period : Enter the ending period of the data
+- Start Period : Enter the starting period of the data  (01-Jul-2013)
+- End Period : Enter the ending period of the data      (31-Dec-2013)
 - Total Electricity :  Enter the total electricity
 - Total Cost :  Enter the total cost
 
