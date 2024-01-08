@@ -56,7 +56,7 @@ Report is displayed on the screen.
 
 5. Click on `DOWNLOAD AS CSV`
 
-<img src="images/20-accoun-style-extract-41.png">
+<img src="images/20-accoun-style-extract-4.png">
 
 A csv file will get downloaded.
 
@@ -64,7 +64,7 @@ A csv file will get downloaded.
 
 2. View the sample Account style and its link (id) highlighted.
 
-- 14492 -> S1 - Gasoline Stationary - gal
+- 14430 -> S1 - Diesel Stationary - gal
 - 22227 -> S1 - Diesel Stationary - L
 - 14445 -> S2 - Electricity - kWh
 
@@ -101,12 +101,12 @@ Report is displayed on the screen.
 
 A csv file will get downloaded.
 
-## 2. Note the Account Style Link
+6. Note the Account Style Link
 
-In the downloaded CSV file the columns `Account Style Link` and `Account Style Caption` values are highlighted for the below `Account Styles`.
+In the downloaded CSV file the columns `Account Style Link` and `Account Style Caption` values are highlighted for the below `Account Styles`. Note the link.
 
-- 14492 -> S1 - Gasoline Stationary - gal
 - 22227 -> S1 - Diesel Stationary - L
+- 14492 -> S1 - Gasoline Stationary - gal
 - 14445 -> S2 - Electricity - kWh
 
 <img src="images/30-account-setup-load-data-pmc-5.png">
