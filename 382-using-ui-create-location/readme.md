@@ -17,6 +17,8 @@ The Objective is to create the following locations
 
 **Note :** Please note that in all the steps below, replace `G1` with your `Prefix-Id`.
 
+<img src="images/00-org.png">
+
 <img src="images/00-org-hiearchy.png">
 
 ### 1. Create Location 1

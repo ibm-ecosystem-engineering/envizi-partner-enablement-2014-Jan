@@ -2,6 +2,8 @@
 
 In this lab exercise we will create Groups/Locations/Accounts and loading data in Envizi using UI.
 
+<img src="images/00-org.png">
+
 <img src="images/00-org-hiearchy.png">
 
 #### Pre-Requisite
