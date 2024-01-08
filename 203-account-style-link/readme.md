@@ -153,3 +153,11 @@ A csv file will get downloaded.
 This is how you can find the Link (id) for an account style. 
 
 Here, you can only view the link of one account style at a time.
+
+## Account style based fields
+
+The below pictures shows that the data fields are different for each account styles.
+
+<img src="images/50-different-accountstyles.png">
+
+
