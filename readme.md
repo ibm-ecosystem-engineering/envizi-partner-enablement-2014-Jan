@@ -97,6 +97,15 @@
         <td colspan="7"></td>  
     </tr>
     <tr>
+        <td></td>
+        <td>Create Organization Hierarchy using Config Connector</td>
+        <td><red>Lab</red></td>
+        <td>Create Organization Hierarchy using Config Connector</td>
+        <td></td>
+        <td></td>
+        <td><a href="./300-create-groups-locations-using-cofig-connector">Link</a></td>
+    </tr>
+    <tr>
         <td>1</td>
         <td>Account Setup and Data Load PM&C</td>
         <td><red>Lab</red></td>
