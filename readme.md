@@ -153,7 +153,7 @@
         <td>Data flow Automation Overview and Demo</td>
         <td>60</td>
         <td>4.00 PM</td>
-        <td></td>
+        <td><a href="./350-data-flow-automation">Link</a></td>
     </tr>
     <tr>
         <td colspan="7"></td>  
