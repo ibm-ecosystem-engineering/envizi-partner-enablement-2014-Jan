@@ -13,7 +13,7 @@ The root URL of the API would be the following.
 
 - For Australia, New Zealand and ASEAN users - https://auapi.envizi.com/api
 - For US and Canada users - https://usapi.envizi.com/api
-- For UK and South African users - https://ukapi.envizi.com/api
+- For UK, Europe and South African users - https://ukapi.envizi.com/api
 - For most Middle East users - https://meapi.envizi.com/api
 
 ## 2 API Authentication
