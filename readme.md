@@ -235,7 +235,7 @@
     <tr>
     <td>Lab</td>
     <td>Manage contacts</td>
-    <td><a href="./371-create-contact-logins-using-ui">Using UI</a>  |   <a href="./372-create-contact-logins-using-templates">Using Template</a></td>
+    <td><a href="./370-contact-logins">Overview</a>  | <a href="./371-create-contact-logins-using-ui">Using UI</a>  |   <a href="./372-create-contact-logins-using-templates">Using Template</a></td>
     </tr>    
 </table>
 

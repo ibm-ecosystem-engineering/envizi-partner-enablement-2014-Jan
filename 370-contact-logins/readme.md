@@ -77,8 +77,8 @@ PowerReport Edit - used in PowerReports.
 
 You can learn about how to create Contacts and logings.
 
-1. Create Contacts and Logins in Envizi using UI : [Link](../131-create-contact-logins-using-ui)
+1. Create Contacts and Logins in Envizi using UI : [Link](../371-create-contact-logins-using-ui)
 
-2. Create Contacts and Logins via Excel Template : [Link](../132-create-contact-logins-using-templates)
+2. Create Contacts and Logins via Excel Template : [Link](../372-create-contact-logins-using-templates)
 
 
